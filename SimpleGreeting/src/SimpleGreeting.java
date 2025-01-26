@@ -12,7 +12,7 @@ public class SimpleGreeting {
 
         System.out.println("Hello, " + name + "! It's nice to meet you.");
 
-      
+
         scanner.close();
     }
 }
